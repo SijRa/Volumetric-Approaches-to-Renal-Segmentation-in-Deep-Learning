@@ -17,3 +17,6 @@ This repository contains the code for the convolutional neural network - MudNet 
   * ```data_loader.py``` loads and prepares renal MRI
   * ```model.py``` defines U-Net architectures and their parameters
   * ```preprocess.py``` contains pre-processing methods (e.g. Fuzzy Normalisation)
+## Results
+<img src="figures/train_cv.png" width="640" height="480"> 
+<img src="figures/test_cv.png" width="640" height="480">
